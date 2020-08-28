@@ -1,7 +1,7 @@
 # Basic-Search-Engine-using-Metric-Inverted-Files-in-Python
 ### A Basic Search Engine using Python to Perform ‘Similarity Search’ using Metric Inverted Files (MIF)
 
-In this project is about developing a software that does “similarity search” using the MIF data. The software will ask for a data object (that may not exist in the input file) and 
+This project is about developing a software that does “similarity search” using the MIF data. The software will ask for a data object (that may not exist in the input file) and 
 will display the similar objects from your input files using the MIF data file.
 
 Methodology:
